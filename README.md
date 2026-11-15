@@ -10,6 +10,6 @@ Tutorial ini di tujukan untuk:
 2. ***Returning Learner***: Lupa dan ingin mengecek kembali.
 3. ***Future me***: Sebagai referensi saya sendiri.
 
-- [Lesson-01: Persiapan Perang](00-persiapan-perang/00-wsl.md)
+[Materi-01: Persiapan Perang](00-persiapan-perang/00-wsl.md)
 
 
