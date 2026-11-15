@@ -1,6 +1,6 @@
 # Persiapan Perang
 
-Di 2026 era programming sudah berubah, terutama karena AI, tapi disini saya ingin mengajarkan kalian cara menjadi programmer yang performatif tanpa bantuan AI atau mesin otomasi lainnya, asumsi kan kalian hidup di medan perang dimana *software as service* seperti AI belum tentu bisa dipakai di negaramu.
+Di 2026 era programming sudah berubah, terutama karena AI, tapi disini saya ingin mengajarkan kalian cara menjadi programmer yang organik (independen dari bantuan), asumsi semisal tidak punya uang maka ilmu ini sangat berguna.
 
 ## Kamu pasti menggunakan Windows
 
@@ -8,9 +8,9 @@ Windows merupakan sistem operasi yang dibuat untuk end-user (konsumer) biasanya 
 
 ## WSL
 
-Di 2026 kamu tidak perlu menginstall sistem operasi linux secara terpisah seperti *dual boot* atau menggunakan *virtual machine* karena bisa digunakan di dalam sistem operasi Windows secara praktis dan langsungnamun masih tetap dalam mesin virtual, namanya ***WSL (Windows Subsystem for Linux)***, jadi kmu masih bisa enak-enak menjadi konsumer sekaligus produksi dengan *WSL*.
+Di 2026 kamu tidak perlu menginstall sistem operasi linux secara terpisah seperti **dual boot** atau menggunakan **virtual machine** karena sekarang bisa digunakan di dalam sistem operasi Windows secara praktis dan langsungnamun masih tetap dalam mesin virtual, namanya ***WSL (Windows Subsystem for Linux)***, jadi kmu masih bisa enak-enak menjadi konsumer sekaligus produksi dengan ***WSL***.
 
-Di windows terdapat terminal atau console yang disebut *powershell*, alat ini sering di gunakan oleh programmer untuk melakukan rekayasa perangkat lunak dan menulis software, jika kamu ingin menjadi programmer kamu harus terbiasa dengan ini, untuk menginstal *WSL* lakukan langkah-langkah berikut:
+Di windows terdapat terminal atau console yang disebut ***powershell***, alat ini sering di gunakan oleh programmer untuk melakukan rekayasa perangkat lunak dan menulis software, jika kamu ingin menjadi programmer kamu harus terbiasa dengan ini, untuk menginstal ***WSL*** lakukan langkah-langkah berikut:
 
 * Ketik `terminal` pada pencarian di windows
 
