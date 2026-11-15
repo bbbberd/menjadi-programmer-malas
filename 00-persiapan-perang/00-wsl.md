@@ -15,34 +15,40 @@ Di windows terdapat terminal atau console yang disebut ***powershell***, alat in
 Untuk menginstal ***WSL*** lakukan langkah-langkah berikut:
 
 \- Ketik `terminal` pada pencarian di windows
+
 \- Klik pada ikon kotak dengan simbol `>_`
+
 ![Gambar 01](images/01.png)
+
 \- Ketik:
 
 ```powershell
 > wsl --install -d Debian
 ```
 
-Jika wsl sudah ada di mesin (*biasanya tidak ada*) cek terlebih dahulu mesin yang tersedia dengan `wsl --list` jika tidak ada, lakukan langkah diatas
+> Jika wsl sudah ada di mesin (*biasanya tidak ada*) cek terlebih dahulu mesin yang tersedia dengan `wsl --list` jika tidak ada, lakukan langkah diatas
 
 \- Tunggu hingga proses pengunduhan selesai
+
 \- **Restart** komputer
 
-Setelah komputer menyala, jendela terminal Debian akan muncul sendiri, jika tidak cari aplikasi **Debian** di Menu Start.
+> Setelah komputer menyala, jendela terminal Debian akan muncul sendiri, jika tidak cari aplikasi **Debian** di Menu Start.
 
 \- Masukan *username* baru lalu tekan *Enter*
+
 \- Masukan *password* baru lalu tekan *Enter*
 
-Karakter pengetikan tidak akan muncul di layar, jadi bayangkan sendiri
+> Karakter pengetikan tidak akan muncul di layar, jadi bayangkan sendiri
 
 \- Ketik ulang *password* lalu tekan *Enter*
+
 \- Verifikasi:
 
 ```powershell
 > wsl --list --verbose
 ```
 
-Pastikan kolom `VERSION` menunjukan angka **2**, jika masih **1** ubah dengan `wsl --set-version Debian 2`.
+> Pastikan kolom `VERSION` menunjukan angka **2**, jika masih **1** ubah dengan `wsl --set-version Debian 2`.
 
 \- Masuk ke WSL
 
@@ -56,7 +62,7 @@ Pastikan kolom `VERSION` menunjukan angka **2**, jika masih **1** ubah dengan `w
 $ cat /etc/os-release
 ```
 
-Pastikan output yang muncul menampilkan VERSION="13(trixie)"
+> Pastikan output yang muncul menampilkan VERSION="13(trixie)"
 
 
 
