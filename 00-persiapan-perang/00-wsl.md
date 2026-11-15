@@ -1,8 +1,10 @@
 # Persiapan Perang
 
+Di 2026 era programming sudah berubah, terutama karena AI, tapi disini saya ingin mengajarkan kalian cara menjadi programmer yang performatif tanpa bantuan AI atau mesin otomasi lainnya, asumsi kan kalian hidup di medan perang dimana *software as service* seperti AI belum tentu bisa dipakai di negaramu.
+
 ## Kamu pasti menggunakan Windows
 
-Windows merupakan sistem operasi yang dibuat untuk end-user (konsumer) biasanya dipakai untuk menjalankan media, file, dsb. Tapi untuk menjadi programmer kamu lebih baik meninggalkan sistem operasi ini dan beralih ke sistem operasi berstandar ***POSIX*** salah satunya *linux* 
+Windows merupakan sistem operasi yang dibuat untuk end-user (konsumer) biasanya dipakai untuk menjalankan media, file, dsb. Tapi untuk menjadi programmer kamu lebih baik beralih ke sistem operasi berstandar ***POSIX*** salah satunya *linux* 
 
 ## WSL
 
