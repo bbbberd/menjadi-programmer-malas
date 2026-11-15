@@ -14,8 +14,8 @@ Di windows terdapat terminal atau console yang disebut ***powershell***, alat in
 
 Untuk menginstal ***WSL*** lakukan langkah-langkah berikut:
 
-- Ketik `terminal` pada pencarian di windows
-- Klik pada ikon kotak dengan simbol `>_`
+-Ketik `terminal` pada pencarian di windows
+-Klik pada ikon kotak dengan simbol `>_`
 
 ![Gambar 01](images/01.png)
 - Ketik:
