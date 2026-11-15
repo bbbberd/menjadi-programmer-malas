@@ -14,7 +14,7 @@ Di windows terdapat terminal atau console yang disebut *powershell*, alat ini se
 
 * Klik pada ikon kotak dengan simbol `>_`
 
-![](01.png)
+![Gambar 01](images/01.png)
 
 * Ketik:
 
