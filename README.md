@@ -1,8 +1,9 @@
-# MENJADI PROGRAMMER MALAS
+# MENJADI PROGRAMMER YANG MALAS
 
 | Nama | Peran | Pembaruan Terakhir |
 | --- | --- | --- |
 | Fadli Birdie Zeinda | Penulis utama | 15 November 2026 |
+
 
 Tutorial ini di tujukan untuk:
 

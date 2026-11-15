@@ -4,7 +4,7 @@ Di 2026 era programming sudah berubah, terutama karena AI, tapi disini saya ingi
 
 ## Kamu pasti menggunakan Windows
 
-Windows merupakan sistem operasi yang dibuat untuk end-user (konsumer) biasanya dipakai untuk menjalankan media, file, dsb. Tapi untuk menjadi programmer kamu lebih baik beralih ke sistem operasi berstandar ***POSIX*** salah satunya ***linux*** ini akan berguna nanti karena 90% komputer di dunia menggunakan ***linux***.
+Windows merupakan sistem operasi yang dibuat untuk end-user (konsumer) makanya klo beli laptop pasti yg diinstall ini, biasanya dipakai untuk menjalankan media, file, dsb. Tapi untuk menjadi programmer kamu lebih baik beralih ke sistem operasi berstandar ***POSIX*** salah satunya ***linux*** ini akan berguna nanti karena 90% komputer di dunia menggunakan ***linux***.
 
 ## Linux
 
@@ -164,46 +164,6 @@ Tunggu hingga proses selesai.
 usernameKamu@computer-nameMu:~$
 ```
 
-## Belajar Syntax Linux Sederhana
-
-Disini kita akan menggunakan perintah linux sederhana yang biasa dan wajib dilakukan setiap kita berada di mesin linux baru.
-
-* Ketik `whoami`
-
-```bash
-$ whoami
-```
-
-akan memunculkan username sekarang
-
-* cek versi
-
-```bash
-$ cat /etc/os-release
-```
-
-Atau
-
-```bash
-$ cat /etc/debian_version
-```
-
-* Masuk sebagai root (Administrator)
-
-```bash
-$ sudo
-```
-
-> Masukan password mu tadi
-
-Ini merupakan perintah sensitif karena sudo (superuser do) adalah perintah administratif yang bisa melakukan apapun, tips untuk kegiatan sehari-hari gunakan perintah biasa saja jangan sudo.
-
-* Mengecek lokasi cursor sekarang dengan `pwd` (*print working directory*)
-
-```bash
-$ pwd
-```
-
 * Keluar dari wsl
 
 ```bash
@@ -216,22 +176,4 @@ $ exit
 wsl
 ```
 
-* Jika lupa password sudo masuk sebagai root
-
-```powershell
-wsl -d Debian -u root
-```
-
-* Lalu reset password baru
-
-```bash
-$ passwd username
-```
-
-
-
-
-
-
-
-
+Sekian untuk bagian ini, lanjut [Mencoba linux untuk pertama kali](01-mencoba-linux-untuk-pertama-kali/01.md)
