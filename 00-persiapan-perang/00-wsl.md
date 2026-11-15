@@ -171,7 +171,7 @@ Disini kita akan menggunakan perintah linux sederhana yang biasa dan wajib dilak
 * Ketik `whoami`
 
 ```bash
-whoami
+$ whoami
 ```
 
 akan memunculkan username sekarang
@@ -179,19 +179,19 @@ akan memunculkan username sekarang
 * cek versi
 
 ```bash
-cat /etc/os-release
+$ cat /etc/os-release
 ```
 
 Atau
 
 ```bash
-cat /etc/debian_version
+$ cat /etc/debian_version
 ```
 
 * Masuk sebagai root (Administrator)
 
 ```bash
-sudo
+$ sudo
 ```
 
 > Masukan password mu tadi
@@ -201,31 +201,31 @@ Ini merupakan perintah sensitif karena sudo (superuser do) adalah perintah admin
 * Mengecek lokasi cursor sekarang dengan `pwd` (*print working directory*)
 
 ```bash
-pwd
+$ pwd
 ```
 
 * Keluar dari wsl
 
 ```bash
-exit
+$ exit
 ```
 
 * Untuk masuk lagi nanti bisa Ketik
 
-```bash
-wsl
+```powershell
+> wsl
 ```
 
 * Jika ingin masuk ke Debian tapi lupa password root
 
-```bash
-wsl -d Debian -u root
+```powershell
+> wsl -d Debian -u root
 ```
 
 Lalu reset password baru
 
 ```bash
-passwd username
+$ passwd username
 ```
 
 
