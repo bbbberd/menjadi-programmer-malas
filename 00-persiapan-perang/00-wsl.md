@@ -204,12 +204,6 @@ Ini merupakan perintah sensitif karena sudo (superuser do) adalah perintah admin
 $ pwd
 ```
 
-Lalu reset password baru
-
-```bash
-$ passwd username
-```
-
 * Keluar dari wsl
 
 ```bash
@@ -228,6 +222,11 @@ wsl
 wsl -d Debian -u root
 ```
 
+* Lalu reset password baru
+
+```bash
+$ passwd username
+```
 
 
 
